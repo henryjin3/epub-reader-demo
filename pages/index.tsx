@@ -20,7 +20,10 @@ const Home: NextPage = () => {
           <Link href="/vivliostyle">@vivliostyle/react</Link>
         </h1>
         <h1 className={styles.title}>
-          <Link href="/bibi/index.html?book=EbookSample">Bibi</Link>
+          <Link href="/bibi/index.html?book=EbookSample">Bibi (unzipped)</Link>
+        </h1>
+        <h1 className={styles.title}>
+          <Link href="/bibi/index.html?book=EbookSample.epub">Bibi (epub)</Link>
         </h1>
       </main>
     </div>

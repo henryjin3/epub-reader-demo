@@ -13,7 +13,7 @@ export default function ReactReaderPage() {
       <ReactReader
         location={location}
         locationChanged={locationChanged}
-        url="/EbookSample.epub"
+        url="/bibi-bookshelf/EbookSample.epub"
       />
     </div>
   );
