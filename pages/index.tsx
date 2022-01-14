@@ -17,6 +17,9 @@ const Home: NextPage = () => {
         <h1 className={styles.title}>
           <Link href="/react-reader">React Reader (based on ePub.js)</Link>
         </h1>
+        <h1 className={styles.title}>
+          <Link href="/vivliostyle">@vivliostyle/react</Link>
+        </h1>
       </main>
     </div>
   );
