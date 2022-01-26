@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta name="dtb:uid" content="urn:uuid:3B80CBAF-BA21-4749-BEAC-5583D2447C91" />
+		<meta name="dtb:depth" content="1" />
+		<meta name="dtb:totalPageCount" content="0" />
+		<meta name="dtb:maxPageNumber" content="0" />
+	</head>
+	<docTitle>
+		<text>獨行天下</text>
+	</docTitle>
+	<docAuthor>
+		<text>Brian L. Harbour</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1"><navLabel><text>目錄</text></navLabel><content src="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-1.xhtml#_idParaDest-1" /></navPoint>
+		<navPoint id="navpoint2" playOrder="2"><navLabel><text>前言</text></navLabel><content src="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-2.xhtml#_idParaDest-2" /></navPoint>
+		<navPoint id="navpoint3" playOrder="3"><navLabel><text>第一章 被遺棄的單身者──夏甲</text></navLabel><content src="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-3.xhtml#_idParaDest-3" /></navPoint>
+		<navPoint id="navpoint4" playOrder="4"><navLabel><text>第二章 世務纏身的獨身者─底波拉</text></navLabel><content src="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-4.xhtml#_idParaDest-4" /></navPoint>
+		<navPoint id="navpoint5" playOrder="5"><navLabel><text>第三章 有鑑賞力的單身者──以撒</text></navLabel><content src="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-5.xhtml#_idParaDest-5" /></navPoint>
+		<navPoint id="navpoint6" playOrder="6"><navLabel><text>第四章 趕時髦的單身者──底拿</text></navLabel><content src="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-6.xhtml#_idParaDest-6" /></navPoint>
+		<navPoint id="navpoint7" playOrder="7"><navLabel><text>第五章 歌頌的單身者──米利暗</text></navLabel><content src="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-7.xhtml#_idParaDest-7" /></navPoint>
+		<navPoint id="navpoint8" playOrder="8"><navLabel><text>第六章 憂傷的單身者──拿俄米</text></navLabel><content src="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-8.xhtml#_idParaDest-8" /></navPoint>
+		<navPoint id="navpoint9" playOrder="9"><navLabel><text>第七章 單純執著的單身者─瓦實提</text></navLabel><content src="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-9.xhtml#_idParaDest-9" /></navPoint>
+		<navPoint id="navpoint10" playOrder="10"><navLabel><text>第八章 事奉的單身者──亞拿</text></navLabel><content src="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-10.xhtml#_idParaDest-10" /></navPoint>
+		<navPoint id="navpoint11" playOrder="11"><navLabel><text>第九章 轟鼻烈烈的單身者──約翰</text></navLabel><content src="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-11.xhtml#_idParaDest-11" /></navPoint>
+		<navPoint id="navpoint12" playOrder="12"><navLabel><text>第十章 驚訝的單身者─撒瑪利亞婦人</text></navLabel><content src="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-12.xhtml#_idParaDest-12" /></navPoint>
+		<navPoint id="navpoint13" playOrder="13"><navLabel><text>第十一章 知足的單身者──保羅</text></navLabel><content src="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-13.xhtml#_idParaDest-13" /></navPoint>
+		<navPoint id="navpoint14" playOrder="14"><navLabel><text>第十二章 至高的單身者──耶穌</text></navLabel><content src="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-14.xhtml#_idParaDest-14" /></navPoint>
+	</navMap>
+</ncx>

@@ -17,10 +17,14 @@ const Home: NextPage = () => {
           <Link href="/react-reader">React Reader (based on ePub.js)</Link>
         </h1>
         <h1 className={styles.title}>
-          <Link href="/bibi/index.html?book=EbookSample">Bibi (unzipped)</Link>
+          <Link href="/bibi/index.html?book=A02-01τì¿Φíîσñ⌐Φ╖»-Θ¢╗TOC">
+            Bibi (unzipped)
+          </Link>
         </h1>
         <h1 className={styles.title}>
-          <Link href="/bibi/index.html?book=EbookSample.epub">Bibi (epub)</Link>
+          <Link href="/bibi/index.html?book=A02-01τì¿Φíîσñ⌐Φ╖»-Θ¢╗TOC.epub">
+            Bibi (epub)
+          </Link>
         </h1>
       </main>
     </div>

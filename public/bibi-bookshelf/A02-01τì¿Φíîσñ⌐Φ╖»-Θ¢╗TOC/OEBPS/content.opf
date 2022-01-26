@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 17.0.1" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>獨行天下</dc:title>
+		<dc:creator>Brian L. Harbour</dc:creator>
+		<dc:publisher>大光</dc:publisher>
+		<dc:date>2022-01-06T00:49:09Z</dc:date>
+		<dc:language>en-US</dc:language>
+		<dc:language>zh-TW</dc:language>
+		<meta property="dcterms:modified">2022-01-06T00:49:09Z</meta>
+		<dc:identifier id="bookid">urn:uuid:3B80CBAF-BA21-4749-BEAC-5583D2447C91</dc:identifier>
+	</metadata>
+	<manifest>
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml" />
+		<item id="A02-01獨行天路-電" href="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB.xhtml" media-type="application/xhtml+xml" />
+		<item id="A02-01獨行天路-電-1" href="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="A02-01獨行天路-電-2" href="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="A02-01獨行天路-電-3" href="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-3.xhtml" media-type="application/xhtml+xml" />
+		<item id="A02-01獨行天路-電-4" href="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-4.xhtml" media-type="application/xhtml+xml" />
+		<item id="A02-01獨行天路-電-5" href="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-5.xhtml" media-type="application/xhtml+xml" />
+		<item id="A02-01獨行天路-電-6" href="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-6.xhtml" media-type="application/xhtml+xml" />
+		<item id="A02-01獨行天路-電-7" href="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-7.xhtml" media-type="application/xhtml+xml" />
+		<item id="A02-01獨行天路-電-8" href="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-8.xhtml" media-type="application/xhtml+xml" />
+		<item id="A02-01獨行天路-電-9" href="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-9.xhtml" media-type="application/xhtml+xml" />
+		<item id="A02-01獨行天路-電-10" href="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-10.xhtml" media-type="application/xhtml+xml" />
+		<item id="A02-01獨行天路-電-11" href="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-11.xhtml" media-type="application/xhtml+xml" />
+		<item id="A02-01獨行天路-電-12" href="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-12.xhtml" media-type="application/xhtml+xml" />
+		<item id="A02-01獨行天路-電-13" href="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-13.xhtml" media-type="application/xhtml+xml" />
+		<item id="A02-01獨行天路-電-14" href="A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E9%9B%BB-14.xhtml" media-type="application/xhtml+xml" />
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="A02-01獨行天路-封面插入用.png" href="image/A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF-%E5%B0%81%E9%9D%A2%E6%8F%92%E5%85%A5%E7%94%A8.png" media-type="image/png" />
+		<item id="A02-01獨行天路書名頁.png" href="image/A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF%E6%9B%B8%E5%90%8D%E9%A0%81.png" media-type="image/png" />
+		<item id="A02-01獨行天路版權頁.png" href="image/A02-01%E7%8D%A8%E8%A1%8C%E5%A4%A9%E8%B7%AF%E7%89%88%E6%AC%8A%E9%A0%81.png" media-type="image/png" />
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" linear="no" />
+		<itemref idref="A02-01獨行天路-電" />
+		<itemref idref="A02-01獨行天路-電-1" />
+		<itemref idref="A02-01獨行天路-電-2" />
+		<itemref idref="A02-01獨行天路-電-3" />
+		<itemref idref="A02-01獨行天路-電-4" />
+		<itemref idref="A02-01獨行天路-電-5" />
+		<itemref idref="A02-01獨行天路-電-6" />
+		<itemref idref="A02-01獨行天路-電-7" />
+		<itemref idref="A02-01獨行天路-電-8" />
+		<itemref idref="A02-01獨行天路-電-9" />
+		<itemref idref="A02-01獨行天路-電-10" />
+		<itemref idref="A02-01獨行天路-電-11" />
+		<itemref idref="A02-01獨行天路-電-12" />
+		<itemref idref="A02-01獨行天路-電-13" />
+		<itemref idref="A02-01獨行天路-電-14" />
+	</spine>
+	<guide>
+		<reference type="cover" href="cover.xhtml" title="Cover" />
+		<reference type="toc" href="A02-01獨行天路-電-1.xhtml#_idContainer004" title="Table of Contents" />
+	</guide>
+</package>
